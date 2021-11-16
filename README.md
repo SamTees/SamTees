@@ -1,6 +1,6 @@
 <i>they/she</i>
 
-<p><h2> linux user, discord bot dev, gamer, human (I think) </h2></p>
+<p><h2> linux user, discord bot dev, gamer, human </h2></p>
 
 <hr>
 
