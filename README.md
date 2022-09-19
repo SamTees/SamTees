@@ -3,7 +3,7 @@
   <a title="pronouns.page" href="https://pronouns.page/@samtiz">
     <img src="https://pronouns.page/logo/logo-primary.svg" width=32 height=32>
   </a>
-  <a title="onlyfans" href="http://roll.samteezz.tk">
+  <a title="onlyfans" href="http://onlyfans.samtiz.tk">
     <img src="https://onlyfans.com/favicon.ico" width=32 height=32>
   </a>
   <a title="discord" href="https://discord.gg/VqvHfRBYcu">
