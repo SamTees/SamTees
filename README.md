@@ -28,10 +28,6 @@
 </section>
 <br>
 
-> linux user, discord bot dev, gamer, human
+> I exist or something
 
 <br>
-
-<details>
-  <a href="https://archlinux.org/download"><s> i u s e a r c h b t w </s></a>
-</details>
