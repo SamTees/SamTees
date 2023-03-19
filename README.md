@@ -15,10 +15,6 @@
   <a title="minecraft" href="https://mine.ly/samtiz">
     <img src="https://namemc.com/favicon.ico" width=32 height=32>
   </a>
-  
-  <a title="osu!" href="https://osu.ppy.sh/users/14505451">
-    <img src="https://osu.ppy.sh/favicon.ico" width=32 height=32>
-  </a>
   <a title="youtube" href="https://bit.ly/steesyt">
     <img src="https://www.youtube.com/favicon.ico" width=32 height=32>
   </a>
